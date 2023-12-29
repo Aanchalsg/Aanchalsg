@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aanchalsg
+- 👋 Hi, I’m @Aanchal
 - 👀 I’m interested in Big Data, Python, SQL, Excel.
 - 🌱 I’m currently learning Tableau PowerBi
 - 💞️ I’m looking to collaborate on Big data project for visualization and insights
